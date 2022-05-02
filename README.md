@@ -1,4 +1,4 @@
-# VideoToAsk
+# VideoToAsc
 
 It's a simple set of function to convert videos to ascII characters.
 
