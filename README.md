@@ -10,4 +10,4 @@ The videos converted are write using the extension '.ascVideo'.
 
 The sample file 'sample.ascVideo' was converted using the resolution 100 100 .
 
-To the video play right the width can be bigger than the width of your terminal window in characters.
+To the video play right the width can't be bigger than the width of your terminal window in characters.
